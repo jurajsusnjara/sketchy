@@ -27,6 +27,7 @@ python index.py -config config.cfg
 ```
 python main.py -config config.cfg
 ```
-
+![Main window for drawing sketches](/app_images/main.png)
+![Displaying the most similar and most different images based on sketch](/app_images/query.png)
 
 
