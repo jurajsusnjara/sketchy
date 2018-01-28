@@ -33,6 +33,6 @@ Main window for drawing sketches
 
 Displaying the most similar and most different images based on sketch
 
-(/app_images/query.png)
+![](/app_images/query.png)
 
 
